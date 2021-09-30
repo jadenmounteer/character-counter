@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/N0dKMkl5vu3kOUiIlYr3chOU8rha0aUAR0QyHo6Y65ID5dE+avE8Bmlev8iVBgMHlSp7xUaf28US37JP5C4iA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\JadenM\\source\\repos\\CharacterCounter\\CharacterCounter\\CharacterCounter.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\JadenM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

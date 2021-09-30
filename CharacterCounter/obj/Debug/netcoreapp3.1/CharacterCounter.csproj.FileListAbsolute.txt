@@ -1,0 +1,13 @@
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.exe
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.deps.json
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.runtimeconfig.json
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.runtimeconfig.dev.json
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.dll
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\CharacterCounter.pdb
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.csproj.AssemblyReference.cache
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.AssemblyInfoInputs.cache
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.AssemblyInfo.cs
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.csproj.CoreCompileInputs.cache
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.dll
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.pdb
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\obj\Debug\netcoreapp3.1\CharacterCounter.genruntimeconfig.cache

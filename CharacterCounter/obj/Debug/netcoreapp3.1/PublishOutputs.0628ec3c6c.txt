@@ -1,0 +1,5 @@
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\publish\CharacterCounter.exe
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\publish\CharacterCounter.dll
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\publish\CharacterCounter.deps.json
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\publish\CharacterCounter.runtimeconfig.json
+D:\Users\JadenM\source\repos\CharacterCounter\CharacterCounter\bin\Debug\netcoreapp3.1\publish\CharacterCounter.pdb
